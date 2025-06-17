@@ -6,9 +6,9 @@ The FDEP Central Panhandle Aquatic Preserves (CPAP) conducts continual water che
 ## Why it Matters
 Having access to continual water quality data in our bays provides numerous benefits, including:
 
-• Preventing data gaps and anomalies that come with manual sampling.
-• Providing us with necessary data to make informed decisions regarding biological research we conduct in these bays.
-• Seeing how the water in our bays are responding to external factors such as changes in riverine flow and weather activity.
+• Preventing data gaps and anomalies that come with manual sampling. <br />
+• Providing us with necessary data to make informed decisions regarding biological research we conduct in these bays. <br />
+• Seeing how the water in our bays are responding to external factors such as changes in riverine flow and weather activity. <br />
 
 Say something here 
 
