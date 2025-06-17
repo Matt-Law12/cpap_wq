@@ -1,6 +1,8 @@
 <div align="center">
 
 # CPAP YSI Continual Water Quality Monitoring
+![EXO](https://github.com/user-attachments/assets/9ee83d9c-ccf3-4771-8fed-c65be13b32b9)![20190912_100857](https://github.com/user-attachments/assets/f16d77f8-07a1-486c-becf-fb093845cef1)
+
 
 </div>
 
@@ -17,6 +19,12 @@ Having access to continual water quality data in our bays provides numerous bene
 Say something here 
 
 ## How We Collect Our Data
+<div align="center">
+  
+![WD_2](https://github.com/user-attachments/assets/8da0ad73-8d8b-44ac-a374-879c7a8b0366)
+
+</div>
+
 Our data sondes are contained within a PVC housing pipe mounted vertically to a designated channel marker. Once a month the dataloggers are retrieved, downloaded, cleaned, and inspected. Freshly calibrated units are deployed at the same time, resulting in little or no data gaps in collection intervals. These dataloggers go through both a pre- and post- calibration process to ensure the sensors are accurately recording data. 
 
 Upon retreaval, datalogger deployment data is uploaded from the YSI data sonde and undergoes a quality assurance/quality control (QAQC) process. During the QAQC process, anomalous data are evaluated to determine whether to flag or reject the suspect values. Data outside the "normal" range of water quality parameters for each site are investigated for validity based on weather data, field observations, QC checks, graphs, and instrument diagnostics. Data are rejected if the anomalies are attributed to sensor malfunction and/or excessive fouling. In addition to observations of any physical damage (e.g., compromised DO probe membrane), sensor malfunctions are detected if the reading of the probe is outside the range established for the sensor or the sensor will not post calibrate.
