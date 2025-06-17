@@ -1,8 +1,7 @@
 <div align="center">
 
 # CPAP YSI Continual Water Quality Monitoring
-![EXO](https://github.com/user-attachments/assets/9ee83d9c-ccf3-4771-8fed-c65be13b32b9)![20190912_100857](https://github.com/user-attachments/assets/f16d77f8-07a1-486c-becf-fb093845cef1)
-
+![EXOsm](https://github.com/user-attachments/assets/1412aa56-ebc0-40a7-b73a-b8b9f9123fcd)  ![20190912_100857sm](https://github.com/user-attachments/assets/0cb7876f-5b04-4163-8799-e4edcc034e2e)
 
 </div>
 
