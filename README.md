@@ -9,13 +9,13 @@
 The FDEP Central Panhandle Aquatic Preserves (CPAP) conducts continual water chemisty data collection through the use of YSI EXO2 data sondes. These dataloggers collect temperature, depth, specific conductivity, pH, salinity, dissolved oxygen, and turbidiy data continually across 15 minute intervals at our two established stations, Alligator Harbor (designated AH2), and Windmark (designated WD).
 
 ## Why it Matters
-Having access to continual water quality data in our bays provides numerous benefits, including:
+Continuous water quality monitoring in our bays offers several key benefits, such as:
 
 • Preventing data gaps and anomalies that come with manual sampling. <br />
-• Providing us with necessary data to make informed decisions regarding biological research we conduct in these bays. <br />
+• Providing us with data necessary to make informed decisions regarding the research and restoration we conduct in these bays. <br />
 • Seeing how the water in our bays are responding to external factors such as changes in riverine flow and weather activity. <br />
 
-Say something here 
+This real-time data provides us with the information necessary to help guide our conservation and restoration efforts in the most effective way possible.
 
 ## How We Collect Our Data
 <div align="center">
@@ -24,9 +24,9 @@ Say something here
 
 </div>
 
-Our data sondes are contained within a PVC housing pipe mounted vertically to a designated channel marker. Once a month the dataloggers are retrieved, downloaded, cleaned, and inspected. Freshly calibrated units are deployed at the same time, resulting in little or no data gaps in collection intervals. These dataloggers go through both a pre- and post- calibration process to ensure the sensors are accurately recording data. 
+Our data sondes are housed within a PVC pipe mounted vertically to a designated channel marker. Once a month, the dataloggers are retrieved, downloaded, cleaned, and inspected. At the same time, freshly calibrated units are deployed, minimizing or eliminating data gaps between collection intervals. Each datalogger undergoes both pre- and post-deployment calibration to ensure sensor accuracy.
 
-Upon retreaval, datalogger deployment data is uploaded from the YSI data sonde and undergoes a quality assurance/quality control (QAQC) process. During the QAQC process, anomalous data are evaluated to determine whether to flag or reject the suspect values. Data outside the "normal" range of water quality parameters for each site are investigated for validity based on weather data, field observations, QC checks, graphs, and instrument diagnostics. Data are rejected if the anomalies are attributed to sensor malfunction and/or excessive fouling. In addition to observations of any physical damage (e.g., compromised DO probe membrane), sensor malfunctions are detected if the reading of the probe is outside the range established for the sensor or the sensor will not post calibrate.
+Upon retrieval, the deployment data are uploaded from the YSI data sonde and go through a quality assurance/quality control (QAQC) process. During QAQC, anomalous data are reviewed to determine whether values should be flagged or rejected. Data outside the expected range for each site are evaluated using weather records, field notes, QC checks, data visualizations, and instrument diagnostics. Readings are rejected if anomalies are linked to sensor malfunction or excessive fouling. Sensor malfunctions are identified through physical inspection (e.g., damaged DO probe membrane), failure to post-calibrate, or if values fall outside the established range for that sensor.
 
 ![Screenshot 2025-05-15 142513](https://github.com/user-attachments/assets/5fca3972-e1d4-413a-855c-37eb14de9bfd)
 
