@@ -6,7 +6,7 @@
 </div>
 
 ## Background
-The FDEP Central Panhandle Aquatic Preserves (CPAP) conducts continual water chemisty data collection through the use of YSI EXO2 data sondes. These dataloggers collect temperature, depth, specific conductivity, pH, salinity, dissolved oxygen, and turbidiy data continually across 15 minute intervals at our two established stations, Alligator Harbor (designated AH2), and Windmark (designated WD).
+The FDEP Central Panhandle Aquatic Preserves (CPAP) conducts continual water chemisty data collection through the use of YSI EXO2 data sondes. These dataloggers collect temperature, depth, specific conductivity, pH, salinity, dissolved oxygen, and turbidity data continually across 15 minute intervals at our two established stations, Alligator Harbor (designated AH2), and Windmark (designated WD).
 
 ## Why it Matters
 Continuous water quality monitoring in our bays offers several key benefits, such as:
