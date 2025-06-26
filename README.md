@@ -32,3 +32,17 @@ Upon retrieval, the deployment data are uploaded from the YSI data sonde and go 
 <img src="./images/wq-dash.png" alt="Image 4" />
 
 All of our EXO2 monitoring data has been compiled into an [interactive Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGUzNTIyZGMtNjhjMy00NWVmLWJmMGItMmQ3ZWZjZTkxMjY5IiwidCI6ImI2MjAxOTYwLTQ1YmEtNGI3OC1iMDgwLWYxYzQzM2ZmNmUzNiIsImMiOjZ9), which contains all observed data that has not been rejected due to anomalies in the data collection process. This dashboard provides easy access to our water quality monitoring data in a way that is accessible, while also being detailed enough to support scientific and technical analysis.
+
+### Central Aquatic Preserves Main Page:
+• [CPAP](https://matt-law12.github.io/cpap/)
+
+### Other Projects:
+• [Florida Oyster Cultch Placement Restoration Project](https://matt-law12.github.io/CPAP_NRDA_Oyster_Project/) <br />
+• [Cat Point Living Shoreline Restoration Project](https://matt-law12.github.io/cpap_shore/) <br />
+• [Florida Seagrass Recovery Project](https://app.powerbi.com/view?r=eyJrIjoiZjUwZDkwZTctNzdlYi00MzY0LWE2NjQtOTY0NzQ5YWJlNGVjIiwidCI6ImI2MjAxOTYwLTQ1YmEtNGI3OC1iMDgwLWYxYzQzM2ZmNmUzNiIsImMiOjZ9) <br />
+
+### Data Dashboards:
+• [Florida Oyster Cultch Placement Restoration Project](https://app.powerbi.com/view?r=eyJrIjoiODhhZGQxZmYtYjYzYy00MTQ0LWI3M2EtZmE3NzdlODdlOGE3IiwidCI6ImI2MjAxOTYwLTQ1YmEtNGI3OC1iMDgwLWYxYzQzM2ZmNmUzNiIsImMiOjZ9) <br />
+• [Cat Point Living Shoreline Restoration Project](https://app.powerbi.com/view?r=eyJrIjoiZDMzNzc2ZGUtZDM5NC00NzE4LWE3ZTQtZWJkOTIyNjMxZDA5IiwidCI6ImI2MjAxOTYwLTQ1YmEtNGI3OC1iMDgwLWYxYzQzM2ZmNmUzNiIsImMiOjZ9) <br />
+• [Florida Seagrass Recovery Project](https://app.powerbi.com/view?r=eyJrIjoiZjUwZDkwZTctNzdlYi00MzY0LWE2NjQtOTY0NzQ5YWJlNGVjIiwidCI6ImI2MjAxOTYwLTQ1YmEtNGI3OC1iMDgwLWYxYzQzM2ZmNmUzNiIsImMiOjZ9) <br />
+• [CPAP YSI Continual Water Quality Monitoring](https://app.powerbi.com/view?r=eyJrIjoiZGUzNTIyZGMtNjhjMy00NWVmLWJmMGItMmQ3ZWZjZTkxMjY5IiwidCI6ImI2MjAxOTYwLTQ1YmEtNGI3OC1iMDgwLWYxYzQzM2ZmNmUzNiIsImMiOjZ9) <br />
