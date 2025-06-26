@@ -1,6 +1,6 @@
-<div align="center">
+<h1 align="center">CPAP YSI Continual Water Quality Monitoring</h1>
 
-# CPAP YSI Continual Water Quality Monitoring
+<div align="center">
 
 <img src="./images/logger1.jpg" alt="Image 1" />  <img src="./images/logger2.jpg" alt="Image 2" />
 
