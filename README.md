@@ -1,8 +1,8 @@
 <div align="center">
 
 # CPAP YSI Continual Water Quality Monitoring
-![EXOsm](https://github.com/user-attachments/assets/1412aa56-ebc0-40a7-b73a-b8b9f9123fcd)  ![20190912_100857sm](https://github.com/user-attachments/assets/0cb7876f-5b04-4163-8799-e4edcc034e2e)
-<img src="./images/Oysters.jpg" alt="Image 1" />
+
+<img src="./images/logger1.jpg" alt="Image 1" />  <img src="./images/logger2.jpg" alt="Image 2" />
 
 </div>
 
@@ -20,8 +20,8 @@ This real-time data provides us with the information necessary to help guide our
 
 ## How We Collect Our Data
 <div align="center">
-  
-![WD_2](https://github.com/user-attachments/assets/8da0ad73-8d8b-44ac-a374-879c7a8b0366)
+
+<img src="./images/logger3.jpg" alt="Image 3" />
 
 </div>
 
@@ -29,6 +29,6 @@ Our data sondes are housed within a PVC pipe mounted vertically to a designated 
 
 Upon retrieval, the deployment data are uploaded from the YSI data sonde and go through a quality assurance/quality control (QAQC) process. During QAQC, anomalous data are reviewed to determine whether values should be flagged or rejected. Data outside the expected range for each site are evaluated using weather records, field notes, QC checks, data visualizations, and instrument diagnostics. Readings are rejected if anomalies are linked to sensor malfunction or excessive fouling. Sensor malfunctions are identified through physical inspection (e.g., damaged DO probe membrane), failure to post-calibrate, or if values fall outside the established range for that sensor.
 
-![Screenshot 2025-05-15 142513](https://github.com/user-attachments/assets/5fca3972-e1d4-413a-855c-37eb14de9bfd)
+<img src="./images/wq-dash.png" alt="Image 4" />
 
 All of our EXO2 monitoring data has been compiled into an [interactive Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGUzNTIyZGMtNjhjMy00NWVmLWJmMGItMmQ3ZWZjZTkxMjY5IiwidCI6ImI2MjAxOTYwLTQ1YmEtNGI3OC1iMDgwLWYxYzQzM2ZmNmUzNiIsImMiOjZ9), which contains all observed data that has not been rejected due to anomalies in the data collection process. This dashboard provides easy access to our water quality monitoring data in a way that is accessible, while also being detailed enough to support scientific and technical analysis.
