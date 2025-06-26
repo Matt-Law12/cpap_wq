@@ -33,7 +33,7 @@ Upon retrieval, the deployment data are uploaded from the YSI data sonde and go 
 
 All of our EXO2 monitoring data has been compiled into an [interactive Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGUzNTIyZGMtNjhjMy00NWVmLWJmMGItMmQ3ZWZjZTkxMjY5IiwidCI6ImI2MjAxOTYwLTQ1YmEtNGI3OC1iMDgwLWYxYzQzM2ZmNmUzNiIsImMiOjZ9), which contains all observed data that has not been rejected due to anomalies in the data collection process. This dashboard provides easy access to our water quality monitoring data in a way that is accessible, while also being detailed enough to support scientific and technical analysis.
 
-### Central Aquatic Preserves Main Page:
+### Central Panhandle Aquatic Preserves Main Page:
 • [CPAP](https://matt-law12.github.io/cpap/)
 
 ### Other Projects:
