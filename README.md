@@ -2,6 +2,7 @@
 
 # CPAP YSI Continual Water Quality Monitoring
 ![EXOsm](https://github.com/user-attachments/assets/1412aa56-ebc0-40a7-b73a-b8b9f9123fcd)  ![20190912_100857sm](https://github.com/user-attachments/assets/0cb7876f-5b04-4163-8799-e4edcc034e2e)
+<img src="./images/Oysters.jpg" alt="Image 1" />
 
 </div>
 
