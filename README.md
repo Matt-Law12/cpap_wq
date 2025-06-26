@@ -11,9 +11,9 @@ The FDEP Central Panhandle Aquatic Preserves (CPAP) conducts continual water che
 ## Why it Matters
 Continuous water quality monitoring in our bays offers several key benefits, such as:
 
-• Preventing data gaps and anomalies that come with manual sampling. <br />
 • Providing us with data necessary to make informed decisions regarding the research and restoration we conduct in these bays. <br />
-• Seeing how the water in our bays are responding to external factors such as changes in riverine flow and weather activity. <br />
+• Preventing data gaps and anomalies that come with manual sampling. <br />
+• Seeing how the water in our bays is responding to external factors such as changes in riverine flow and weather activity. <br />
 
 This real-time data provides us with the information necessary to help guide our conservation and restoration efforts in the most effective way possible.
 
